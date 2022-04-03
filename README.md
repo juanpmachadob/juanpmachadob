@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Machado</h1>
-<h3 align="center">I am a junior full-stack mevn developer. I like my profession.</h3>
-
-- 🔭 I’m currently working on [Game List Blog](https://github.com/Ju4npx/Game-List-Blog)
+<h3 align="center">I am a junior full-stack MEVN Developer. I like my profession.</h3>
 
 - 🌱 I’m currently practicing **MEVN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ju4npx](https://github.com/Ju4npx)
+- 👨‍💻 All of my projects are available at [juanmachado.netlify.app/](https://juanmachado.netlify.app/)
 
 - 📫 How to reach me **juanpmachadob@gmail.com**
 
