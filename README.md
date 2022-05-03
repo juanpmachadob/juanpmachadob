@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo Machado</h1>
 <h3 align="center">I am a junior full-stack MEVN Developer. I like my profession.</h3>
 
-- 🌱 I’m currently practicing **MEVN Stack**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [juanmachado.netlify.app/](https://juanmachado.netlify.app/)
 
